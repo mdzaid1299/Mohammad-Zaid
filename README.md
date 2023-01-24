@@ -132,9 +132,6 @@ Welcome to my public code assembly, trained from <a href="https://www.niit.com/s
 
 <br/>
 <br/>
-<br/>
-<br/>
-
 
 <!-- ## Github Stats <img height="35px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif"> -->
 <!-- <br>
@@ -148,6 +145,7 @@ Welcome to my public code assembly, trained from <a href="https://www.niit.com/s
 <br>
 <br><br>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark"/></a>
-<br>
+<!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark"/></a>
+<br> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdzaid1299)](https://git.io/streak-stats)
 <br><br>
